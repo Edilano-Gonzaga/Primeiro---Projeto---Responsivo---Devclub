@@ -5,5 +5,6 @@
 <br>
 <br>
 <h2>Tecnologias utilizadas</h2>
-    - HTML
-    - CSS
+    <br>
+    <p>- HTML</p>
+    <p>- CSS</p>
