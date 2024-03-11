@@ -10,4 +10,4 @@
     <p>- HTML</p>
     <p>- CSS</p>
 
-<img src="https://github.com/Edilano-Gonzaga/easy-shooping/blob/main/img/ease-shooping-not-e-cel.png?raw=true" />
+<img src="https://github.com/Edilano-Gonzaga/easy-shooping/blob/main/Desafio03/img/Design-telas-responsivas.png?raw=true" />
