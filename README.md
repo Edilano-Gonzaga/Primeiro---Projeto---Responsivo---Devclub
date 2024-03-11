@@ -2,7 +2,7 @@
 <br>
 <br>
 <h2>Esse foi um projeto que aprende no <a href="https://rodolfomori.com.br/devclub">Devclub</a></h2>
-<p>Clique no link para conferir  <a href="https://edilano-gonzaga.github.io/easy-shooping/ target="_blank>Site Easy-shooping</a>
+<p>Clique no link para conferir <a href="https://edilano-gonzaga.github.io/easy-shooping/" target="_blank">Site Easy-shooping</a></p>
 <br>
 <br>
 <h2>Tecnologias utilizadas</h2>
