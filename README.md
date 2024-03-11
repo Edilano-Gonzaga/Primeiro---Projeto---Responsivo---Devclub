@@ -8,3 +8,5 @@
     <br>
     <p>- HTML</p>
     <p>- CSS</p>
+
+<img src="https://github.com/Edilano-Gonzaga/easy-shooping/blob/main/img/ease-shooping-not-e-cel.png?raw=true" />
